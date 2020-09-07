@@ -3,32 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trduy91.github.io/blog/author/admin/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://trduy91.github.io/blog/author/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trduy91.github.io/blog/blog/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trduy91.github.io/blog/categories/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://trduy91.github.io/blog/tags/day/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <loc>https://trduy91.github.io/blog/author/duyt/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trduy91.github.io/blog/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/categories/hugo/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/tags/hugo/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/tags/markdown/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/tags/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/blog/post-1/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trduy91.github.io/blog/author/admin/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
@@ -58,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://trduy91.github.io/blog/tags/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://trduy91.github.io/blog/blog/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
@@ -84,21 +104,6 @@
   
   <url>
     <loc>https://trduy91.github.io/blog/tags/visit/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trduy91.github.io/blog/tags/work/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trduy91.github.io/blog/categories/working-days/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trduy91.github.io/blog/blog/post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   

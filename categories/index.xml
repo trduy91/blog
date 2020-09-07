@@ -6,10 +6,19 @@
     <description>Recent content in Categories on DuyT&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://trduy91.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://trduy91.github.io/blog/categories/hugo/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trduy91.github.io/blog/categories/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lifestyle</title>
@@ -35,15 +44,6 @@
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://trduy91.github.io/blog/categories/tour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working days</title>
-      <link>https://trduy91.github.io/blog/categories/working-days/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://trduy91.github.io/blog/categories/working-days/</guid>
       <description></description>
     </item>
     

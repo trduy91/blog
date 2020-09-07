@@ -6,17 +6,26 @@
     <description>Recent content in Tags on DuyT&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://trduy91.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>day</title>
-      <link>https://trduy91.github.io/blog/tags/day/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <title>hugo</title>
+      <link>https://trduy91.github.io/blog/tags/hugo/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://trduy91.github.io/blog/tags/day/</guid>
+      <guid>https://trduy91.github.io/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://trduy91.github.io/blog/tags/markdown/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trduy91.github.io/blog/tags/markdown/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://trduy91.github.io/blog/tags/visit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://trduy91.github.io/blog/tags/work/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://trduy91.github.io/blog/tags/work/</guid>
       <description></description>
     </item>
     
